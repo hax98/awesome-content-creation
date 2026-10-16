@@ -271,8 +271,9 @@ Selling digital products is one of the most scalable revenue streams for creator
 ### Affiliate Marketing
 - [Amazon Associates](https://affiliate-program.amazon.com/) — Earn commissions on product recommendations.
 - [Impact](https://impact.com/) — Affiliate network with major brands.
-- [ShareASale](https://www.shareasale.com/) — Large affiliate network with thousands of merchants.
 - [PartnerStack](https://partnerstack.com/) — B2B SaaS affiliate programs.
+- [Repostit Partners](https://partners.repostit.io/register) — Video publishing affiliate programme; 20% recurring on valid paid, non-refunded referrals while customers remain active and paying.
+- [ShareASale](https://www.shareasale.com/) — Large affiliate network with thousands of merchants.
 
 ### Memberships & Subscriptions
 - [Patreon](https://www.patreon.com/) — Membership platform for creators.
